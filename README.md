@@ -1,10 +1,12 @@
+> NOTE - this is already fixed! do `bundle update concurrent-ruby` ....so this repo is no longer needed
+
+
 # TEMPORARY REPO !!!
 
 This is temporary for of
 <https://github.com/ruby-concurrency/concurrent-ruby> in order to fix
 <https://github.com/ruby-concurrency/concurrent-ruby/issues/808>
 
-> NOTE - this is already fixed! do `bundle update concurrent-ruby` so this repo is not needed
 
 ```
 Finished in 49.25 seconds (files took 9.17 seconds to load)
